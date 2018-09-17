@@ -1,5 +1,5 @@
 <?php
 
-echo 'hello.world plus';
+echo 'plus';
 
 echo 'a';
